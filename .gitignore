@@ -1,0 +1,14 @@
+node_modules
+.eslintcache
+.DS_Store
+*.map
+*.bundle.js
+*.env
+yarn-error.log*
+
+# reason
+lib
+.merlin
+.bsb.lock
+lib/*
+*.bs.js

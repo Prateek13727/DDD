@@ -1,0 +1,16 @@
+{
+  "name": "ddd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Prateek13727/DDD.git",
+  "author": "maverick <prateekpandey@theporter.in>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bsb -make-world",
+    "bs:watch": "bsb -make-world -w",
+    "bs:clean": "bsb -clean-world"
+  },
+  "dependencies": {
+    "bs-platform": "^9.0.1"
+  }
+}
